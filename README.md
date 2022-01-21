@@ -56,13 +56,13 @@
 <details open>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnouarSaadi&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnouarSaadi&theme=nord_dark" />
   <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnouarSaadi&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnouarSaadi&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnouarSaadi&theme=nord_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnouarSaadi&theme=nord_dark"/>
 	<br />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnouarSaadi&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnouarSaadi&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnouarSaadi&theme=nord_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnouarSaadi&theme=nord_dark"/>
 </details>
 <!-- 
 ---
