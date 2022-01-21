@@ -32,7 +32,7 @@
 
 
 
-<details>	
+<details open>	
   <summary><b> 42 Profile Card</summary>
 
   <br />
@@ -40,7 +40,7 @@
   [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asaadi)](https://github.com/AnouarSaadi)
 </details>
 
-<details>	
+<details open>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -53,7 +53,7 @@
 	</ul>	
 </details>
 
-<details>	
+<details open>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnouarSaadi&theme=dracula" />
