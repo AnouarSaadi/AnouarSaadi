@@ -13,7 +13,7 @@
 
 
 
-- 👨🏽‍💻 I’m currently studying at **[1337 School](https://1337.ma)**
+- 👨🏽‍💻 I’m currently studying at **[1337 Coding School](https://1337.ma)**
 
 - 📫 How to reach me **anouarsaadi1802@gmail.com**
 
