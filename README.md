@@ -1,4 +1,3 @@
-<!-- <img src="/src/header_.png"> -->
 
 <h1 align="center">Hey There 👋,&nbsp;&nbsp;I'm SAADI ANOUAR</h1>
 
@@ -8,37 +7,51 @@
 ### Glad that you are here 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AnouarSaadi&label=Profile%20views&color=0e75b6&style=flat" alt="AnouarSaadi" /> </p>
 
-<h2>👨🏽‍💻 I’m currently studying at 1337 Coding school<h2>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/saadi_anouar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi_anouar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anouar-saadi-b5b6a4170/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnouarSaadi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12264385/asaadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12264385" height="30" width="40" /></a>
+<a href="anouarsaadi1802@gmmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="AnouarSaadi" height="30" width="40" /></a>
+</p>
+	
+	
+👨🏽‍💻 I’m currently studying at **[1337 Coding School](https://1337.ma)**
+	
+🌱 I’m currently learning Nestjs, reactjs, Angularjs, Expressjs
+	
+💬 Ask me about C,C++
+	
+
+
+
+
 </div>
 
 
-
-- 👨🏽‍💻 I’m currently studying at **[1337 Coding School](https://1337.ma)**
-
-- 📫 How to reach me **anouarsaadi1802@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saadi_anouar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi_anouar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anouar-saadi-b5b6a4170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnouarSaadi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12264385/asaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12264385" height="30" width="40" /></a>
-<a href="https://instagram.com/_anouarsaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anouarsaadi" height="30" width="40" /></a>
-</p>
-
-
 ---
 
 
+![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/code-c++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/code-c-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
 
-<details open>	
-  <summary><b> 42 Profile Card</summary>
+![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=important)
+![](https://img.shields.io/badge/tools-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=important)
+![](https://img.shields.io/badge/agile-git-informational?style=flat&logo=git&logoColor=white&color=important)
 
-  <br />
+![](https://img.shields.io/badge/db-relational-informational?style=flat&logo=postgresql&logoColor=white&color=red)
 
-  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=asaadi)](https://github.com/AnouarSaadi)
-</details>
+![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
+
+</div>
+	
+
+---
+
 
 <details open>	
   <br />
@@ -63,35 +76,10 @@
 	<br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnouarSaadi&theme=nord_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnouarSaadi&theme=nord_dark"/>
+	
+<h2 align='center'><i>Commits Graph</i></h2>
+	
+![](https://activity-graph.herokuapp.com/graph?username=AnouarSaadi&theme=react-dark)
+
 </details>
-<!-- 
----
 
-<div align="center"><a href="https://www.buymeacoffee.com/AnouarSaadi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
- -->
-<!-- ---
-
-<p align="center">
-   <img src="https://github.com/AnouarSaadi/AnouarSaadi/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
- -->
-<!-- --- -->
-<!--
-**Ysrbolles/Ysrbolles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently I’m currently studying at on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
