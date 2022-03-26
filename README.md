@@ -12,7 +12,7 @@
 <a href="https://twitter.com/saadi_anouar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi_anouar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anouar-saadi-b5b6a4170/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnouarSaadi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12264385/asaadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12264385" height="30" width="40" /></a>
-<a href="anouarsaadi1802@gmmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="AnouarSaadi" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=anouarsaadi1802@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="AnouarSaadi" height="30" width="40" /></a>
 </p>
 	
 	
