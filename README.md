@@ -1,58 +1,44 @@
 
-<h1 align="center">Hey There 👋,&nbsp;&nbsp;I'm SAADI ANOUAR</h1>
+<h1 align="center">Hey There 👋,&nbsp;&nbsp;I'm Anouar</h1>
 
+<h3 align="center">A passionate software developer from Morocco</h3>
+
+<h4 align="center">Glad that you are here </h4>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AnouarSaadi&label=Profile%20views&color=0e75b6&style=flat" alt="AnouarSaadi" /> </p>
 
 <div align="center">
 
-### Glad that you are here 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AnouarSaadi&label=Profile%20views&color=0e75b6&style=flat" alt="AnouarSaadi" /> </p>
+👨🏽‍💻 I’m currently studying Software Engineering at **[1337 Coding School](https://1337.ma)**
+
+🔭 I’m currently working on **my portfolio**
+
+🌱 I’m currently learning **ReactJS / NextJS, PHP and Flutter**
+
+💬 Ask me about **JavaScript, TypeScript, NodeJS and C/C++**
+
+📫 How to reach me **anouarsaadi1802@gmail.com**
+
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/saadi_anouar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi_anouar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/anouar-saadi-b5b6a4170/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnouarSaadi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12264385/asaadi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12264385" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=anouarsaadi1802@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="AnouarSaadi" height="30" width="40" /></a>
+<a href="https://twitter.com/saadi_anouar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadi_anouar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anouarsaadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anouarsaadi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12264385" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12264385" height="30" width="40" /></a>
+<a href="https://discord.gg/asaadi#3642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asaadi#3642" height="30" width="40" /></a>
 </p>
-	
-	
-👨🏽‍💻 I’m currently studying at **[1337 Coding School](https://1337.ma)**
-	
-🌱 I’m currently learning Nestjs, reactjs, Angularjs, Expressjs
-	
-💬 Ask me about C,C++
-	
 
-
-
-
-</div>
+	
 
 
 ---
 
-
-![](https://img.shields.io/badge/code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-c++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/code-c-informational?style=flat&logo=C&logoColor=white&color=blueviolet)
-
-![](https://img.shields.io/badge/tools-docker-informational?style=flat&logo=docker&logoColor=white&color=important)
-![](https://img.shields.io/badge/tools-kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=important)
-![](https://img.shields.io/badge/agile-git-informational?style=flat&logo=git&logoColor=white&color=important)
-
-![](https://img.shields.io/badge/db-relational-informational?style=flat&logo=postgresql&logoColor=white&color=red)
-
-![](https://img.shields.io/badge/os-linux-informational?style=flat&logo=ubuntu&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/os-macos-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/os-windows-informational?style=flat&logo=macos&logoColor=white&color=yellowgreen)
-
-</div>
-	
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ---
 
-
+<div align="left">
 <details open>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -65,6 +51,7 @@
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
 	</ul>	
 </details>
+</div>
 
 <details open>	
   <summary><b>⚡ Github Stats</b></summary>
