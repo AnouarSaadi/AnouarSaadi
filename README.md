@@ -13,9 +13,11 @@
 
 👨🏽‍💻 I’m currently studying Software Engineering at **[1337 Coding School](https://1337.ma)**
 
-🌱 I’m currently learning **ReactJS / NextJS and Flutter**
+🌱 I’m currently learning **Everything**
 
 💬 Ask me about **JavaScript, TypeScript, NodeJS, Docker, Kubernetes and C/C++**
+	
+💪🏼 I'm open to collaborating on interesting projects.
 
 📫 How to reach me **anouarsaadi1802@gmail.com**
 
